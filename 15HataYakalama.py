@@ -1,7 +1,10 @@
+#
 # Hata Yakalama
+#
 
-# try... except...
-"""
+
+# try... except... as... finally...
+
 while True:
     ilk_sayı    = input("ilk sayı: ")
     ikinci_sayı = input("ikinci sayı: ")
@@ -21,4 +24,13 @@ while True:
         print("Lütfen böleni sıfır girmeyin!")
         print("Error Message:", e)
 '''
-"""
+
+
+# raise -> ‘Python tarzı’ bir hata mesajı göstermek için
+bölünen = int(input("bölünecek sayı: "))
+
+if bölünen == 23:
+    raise Exception("Bu programda 23 sayısını görmek istemiyorum!")
+
+bölen = int(input("bölen sayı: "))
+print(bölünen/bölen)
