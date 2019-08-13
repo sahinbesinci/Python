@@ -4,6 +4,8 @@ https://belgeler.yazbel.com/python-istihza/
 
 Teşekkürler...
 
+
+<div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1">Bu Kitap Hakkında
 <ul>
@@ -848,3 +850,4 @@ Teşekkürler...
 </li>
 </ul>
 <p>The online JavaScript compressor will definitely help you optimize your scripts for a faster page loading.</p>
+</div>
