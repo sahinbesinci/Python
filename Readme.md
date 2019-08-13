@@ -4,741 +4,843 @@ https://belgeler.yazbel.com/python-istihza/
 
 Teşekkürler...
 
-
+<p>Kaynak&ccedil;a: https://belgeler.yazbel.com/python-istihza/ Teşekk&uuml;rler...</p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="kitap_hakkinda.html">Bu Kitap Hakkında</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="kitap_hakkinda.html#bu-kitaptan-nasil-yararlanabilirim">Bu Kitaptan Nasıl Yararlanabilirim?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kitap_hakkinda.html#nereden-yardim-alabilirim">Nereden Yardım Alabilirim?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kitap_hakkinda.html#projeye-nasil-yardimci-olabilirim">Projeye Nasıl Yardımcı Olabilirim?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kitap_hakkinda.html#kullanim-kosullari">Kullanım Koşulları</a></li>
+<li>Bu Kitap Hakkında
+<ul>
+<li>Bu Kitaptan Nasıl Yararlanabilirim?</li>
+<li>Nereden Yardım Alabilirim?</li>
+<li>Projeye Nasıl Yardımcı Olabilirim?</li>
+<li>Kullanım Koşulları</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="python_hakkinda.html">Python Hakkında</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#python-nedir">Python Nedir?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#neden-programlama-ogrenmek-isteyeyim">Neden Programlama Öğrenmek İsteyeyim?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#neden-python">Neden Python?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#python-nasil-telaffuz-edilir">Python Nasıl Telaffuz Edilir?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#platform-destegi">Platform Desteği</a></li>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#farkli-python-surumleri">Farklı Python Sürümleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="python_hakkinda.html#hangi-seriyi-ogrenmeliyim">Hangi Seriyi Öğrenmeliyim?</a></li>
+<li>Python Hakkında
+<ul>
+<li>Python Nedir?</li>
+<li>Neden Programlama &Ouml;ğrenmek İsteyeyim?</li>
+<li>Neden Python?</li>
+<li>Python Nasıl Telaffuz Edilir?</li>
+<li>Platform Desteği</li>
+<li>Farklı Python S&uuml;r&uuml;mleri</li>
+<li>Hangi Seriyi &Ouml;ğrenmeliyim?</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="kurulum.html">Python Nasıl Kurulur?</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="kurulum.html#gnu-linux-kullanicilari">GNU/Linux Kullanıcıları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="kurulum.html#kurulu-python-surumu">Kurulu Python Sürümü</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kurulum.html#paket-deposundan-kurulum">Paket Deposundan Kurulum</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kurulum.html#kaynaktan-kurulum">Kaynaktan Kurulum</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="kurulum.html#root-haklari-ile-kurulum">root Hakları İle Kurulum</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kurulum.html#yetkisiz-kullanici-olarak-kurulum">Yetkisiz Kullanıcı Olarak Kurulum</a></li>
+<li>Python Nasıl Kurulur?
+<ul>
+<li>GNU/Linux Kullanıcıları
+<ul>
+<li>Kurulu Python S&uuml;r&uuml;m&uuml;</li>
+<li>Paket Deposundan Kurulum</li>
+<li>Kaynaktan Kurulum
+<ul>
+<li>root Hakları İle Kurulum</li>
+<li>Yetkisiz Kullanıcı Olarak Kurulum</li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="kurulum.html#windows-kullanicilari">Windows Kullanıcıları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kurulum.html#python-kurulum-ve-calisma-dizini">Python Kurulum ve Çalışma Dizini</a></li>
+<li>Windows Kullanıcıları</li>
+<li>Python Kurulum ve &Ccedil;alışma Dizini</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="calistirma.html">Python Nasıl Çalıştırılır?</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="calistirma.html#gnu-linux-kullanicilari">GNU/Linux Kullanıcıları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="calistirma.html#kurulu-python3-u-kullananlar">Kurulu Python3’ü Kullananlar</a></li>
-<li class="toctree-l3"><a class="reference internal" href="calistirma.html#python3-u-depodan-kuranlar">Python3’ü Depodan Kuranlar</a></li>
-<li class="toctree-l3"><a class="reference internal" href="calistirma.html#python3-u-root-olarak-derleyenler">Python3’ü root Olarak Derleyenler</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="calistirma.html#cok-onemli-bir-uyari">Çok Önemli Bir Uyarı</a></li>
+<li>Python Nasıl &Ccedil;alıştırılır?
+<ul>
+<li>GNU/Linux Kullanıcıları
+<ul>
+<li>Kurulu Python3&rsquo;&uuml; Kullananlar</li>
+<li>Python3&rsquo;&uuml; Depodan Kuranlar</li>
+<li>Python3&rsquo;&uuml; root Olarak Derleyenler
+<ul>
+<li>&Ccedil;ok &Ouml;nemli Bir Uyarı</li>
 </ul>
 </li>
-<li class="toctree-l3"><a class="reference internal" href="calistirma.html#python3-u-ev-dizinine-kuranlar">Python3’ü Ev Dizinine Kuranlar</a></li>
-<li class="toctree-l3"><a class="reference internal" href="calistirma.html#gnu-linux-ta-farkli-surumleri-birlikte-kullanmak">GNU/Linux’ta Farklı Sürümleri Birlikte Kullanmak</a></li>
+<li>Python3&rsquo;&uuml; Ev Dizinine Kuranlar</li>
+<li>GNU/Linux&rsquo;ta Farklı S&uuml;r&uuml;mleri Birlikte Kullanmak</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="calistirma.html#windows-kullanicilari">Windows Kullanıcıları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="calistirma.html#windows-ta-farkli-surumleri-birlikte-kullanmak">Windows’ta Farklı Sürümleri Birlikte Kullanmak</a></li>
+<li>Windows Kullanıcıları
+<ul>
+<li>Windows&rsquo;ta Farklı S&uuml;r&uuml;mleri Birlikte Kullanmak</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="calistirma.html#hangi-komut-hangi-surumu-calistiriyor">Hangi Komut Hangi Sürümü Çalıştırıyor?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="calistirma.html#sistem-komut-satiri-ve-python-komut-satiri">Sistem Komut Satırı ve Python Komut Satırı</a></li>
+<li>Hangi Komut Hangi S&uuml;r&uuml;m&uuml; &Ccedil;alıştırıyor?</li>
+<li>Sistem Komut Satırı ve Python Komut Satırı</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="etkilesimli_python.html">Etkileşimli Python</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="etkilesimli_python.html#etkilesimli-kabukta-ilk-adimlar">Etkileşimli Kabukta İlk Adımlar</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="etkilesimli_python.html#karakter-dizilerine-giris">Karakter Dizilerine Giriş</a></li>
-<li class="toctree-l3"><a class="reference internal" href="etkilesimli_python.html#sayilara-giris">Sayılara Giriş</a></li>
-<li class="toctree-l3"><a class="reference internal" href="etkilesimli_python.html#degiskenler">Değişkenler</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="etkilesimli_python.html#degisken-adi-belirleme-kurallari">Değişken Adı Belirleme Kuralları</a></li>
-<li class="toctree-l4"><a class="reference internal" href="etkilesimli_python.html#uygulama-ornekleri">Uygulama Örnekleri</a></li>
-<li class="toctree-l4"><a class="reference internal" href="etkilesimli_python.html#degiskenlere-dair-bazi-ipuclari">Değişkenlere Dair Bazı İpuçları</a><ul>
-<li class="toctree-l5"><a class="reference internal" href="etkilesimli_python.html#ayni-degere-sahip-degiskenler-tanimlama">Aynı Değere Sahip Değişkenler Tanımlama</a></li>
-<li class="toctree-l5"><a class="reference internal" href="etkilesimli_python.html#degiskenlerin-degerini-takas-etme">Değişkenlerin Değerini Takas Etme</a></li>
+<li>Etkileşimli Python
+<ul>
+<li>Etkileşimli Kabukta İlk Adımlar
+<ul>
+<li>Karakter Dizilerine Giriş</li>
+<li>Sayılara Giriş</li>
+<li>Değişkenler
+<ul>
+<li>Değişken Adı Belirleme Kuralları</li>
+<li>Uygulama &Ouml;rnekleri</li>
+<li>Değişkenlere Dair Bazı İpu&ccedil;ları
+<ul>
+<li>Aynı Değere Sahip Değişkenler Tanımlama</li>
+<li>Değişkenlerin Değerini Takas Etme</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="etkilesimli_python.html#etkilesimli-kabugun-hafizasi">Etkileşimli Kabuğun Hafızası</a></li>
+<li>Etkileşimli Kabuğun Hafızası</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="print.html">print() Fonksiyonu</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="print.html#nedir-ne-ise-yarar">Nedir, Ne İşe Yarar?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="print.html#nasil-kullanilir">Nasıl Kullanılır?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="print.html#bir-fonksiyon-olarak-print">Bir Fonksiyon Olarak print()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="print.html#print-fonksiyonunun-parametreleri">print() Fonksiyonunun Parametreleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="print.html#sep">sep</a></li>
-<li class="toctree-l3"><a class="reference internal" href="print.html#end">end</a></li>
-<li class="toctree-l3"><a class="reference internal" href="print.html#file">file</a></li>
-<li class="toctree-l3"><a class="reference internal" href="print.html#flush">flush</a></li>
+<li>print() Fonksiyonu
+<ul>
+<li>Nedir, Ne İşe Yarar?</li>
+<li>Nasıl Kullanılır?</li>
+<li>Bir Fonksiyon Olarak print()</li>
+<li>print() Fonksiyonunun Parametreleri
+<ul>
+<li>sep</li>
+<li>end</li>
+<li>file</li>
+<li>flush</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="print.html#birkac-pratik-bilgi">Birkaç Pratik Bilgi</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="print.html#yildizli-parametreler">Yıldızlı Parametreler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="print.html#sys-stdout-u-kalici-olarak-degistirmek">sys.stdout’u Kalıcı Olarak Değiştirmek</a></li>
+<li>Birka&ccedil; Pratik Bilgi
+<ul>
+<li>Yıldızlı Parametreler</li>
+<li>sys.stdout&rsquo;u Kalıcı Olarak Değiştirmek</li>
 </ul>
 </li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="kacis_dizileri.html">Kaçış Dizileri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#ters-taksim">Ters Taksim (\)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#satir-basi-n">Satır Başı (\n)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#sekme-t">Sekme (\t)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#zil-sesi-a">Zil Sesi (\a)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#ayni-satir-basi-r">Aynı Satır Başı (\r)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#dusey-sekme-v">Düşey Sekme (\v)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#imlec-kaydirma-b">İmleç Kaydırma (\b)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#kucuk-unicode-u">Küçük Unicode (\u)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#buyuk-unicode-u">Büyük Unicode (\U)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#uzun-ad-n">Uzun Ad (\N)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#onaltili-karakter-x">Onaltılı Karakter (\x)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#etkisizlestirme-r">Etkisizleştirme (r)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#sayfa-basi-f">Sayfa Başı (\f)</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kacis_dizileri.html#kacis-dizilerine-toplu-bakis">Kaçış Dizilerine Toplu Bakış</a></li>
+<li>Ka&ccedil;ış Dizileri
+<ul>
+<li>Ters Taksim (\)</li>
+<li>Satır Başı (\n)</li>
+<li>Sekme (\t)</li>
+<li>Zil Sesi (\a)</li>
+<li>Aynı Satır Başı (\r)</li>
+<li>D&uuml;şey Sekme (\v)</li>
+<li>İmle&ccedil; Kaydırma (\b)</li>
+<li>K&uuml;&ccedil;&uuml;k Unicode (\u)</li>
+<li>B&uuml;y&uuml;k Unicode (\U)</li>
+<li>Uzun Ad (\N)</li>
+<li>Onaltılı Karakter (\x)</li>
+<li>Etkisizleştirme (r)</li>
+<li>Sayfa Başı (\f)</li>
+<li>Ka&ccedil;ış Dizilerine Toplu Bakış</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="kaydetme_ve_calistirma.html">Programları Kaydetme ve Çalıştırma</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="kaydetme_ve_calistirma.html#gnu-linux">GNU/Linux</a></li>
-<li class="toctree-l2"><a class="reference internal" href="kaydetme_ve_calistirma.html#windows">Windows</a></li>
+<li>Programları Kaydetme ve &Ccedil;alıştırma
+<ul>
+<li>GNU/Linux</li>
+<li>Windows</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="gelistirme_ortami.html">Çalışma Ortamı Tavsiyesi</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="gelistirme_ortami.html#windows-kullanicilari">Windows Kullanıcıları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gelistirme_ortami.html#gnu-linux-kullanicilari">GNU/Linux Kullanıcıları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gelistirme_ortami.html#metin-duzenleyici-ayarlari">Metin Düzenleyici Ayarları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gelistirme_ortami.html#ms-dos-komut-satiri-ayarlari">MS-DOS Komut Satırı Ayarları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gelistirme_ortami.html#program-ornekleri">Program Örnekleri</a></li>
+<li>&Ccedil;alışma Ortamı Tavsiyesi
+<ul>
+<li>Windows Kullanıcıları</li>
+<li>GNU/Linux Kullanıcıları</li>
+<li>Metin D&uuml;zenleyici Ayarları</li>
+<li>MS-DOS Komut Satırı Ayarları</li>
+<li>Program &Ouml;rnekleri</li>
 </ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="yorum.html">Yorum ve Açıklama Cümleleri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="yorum.html#yorum-isareti">Yorum İşareti</a></li>
-<li class="toctree-l2"><a class="reference internal" href="yorum.html#yorum-isaretinin-farkli-kullanimlari">Yorum İşaretinin Farklı Kullanımları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="yorum.html#etkisizlestirme-amacli">Etkisizleştirme Amaçlı</a></li>
-<li class="toctree-l3"><a class="reference internal" href="yorum.html#susleme-amacli">Süsleme Amaçlı</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="input.html">Kullanıcıdan Bilgi Almak</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="input.html#input-fonksiyonu">input() Fonksiyonu</a></li>
-<li class="toctree-l2"><a class="reference internal" href="input.html#tip-donusumleri">Tip Dönüşümleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="input.html#int">int()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="input.html#str">str()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="input.html#float">float()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="input.html#complex">complex()</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="input.html#eval-ve-exec-fonksiyonlari">eval() ve exec() Fonksiyonları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="input.html#format-metodu">format() Metodu</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="kosul_deyimleri.html">Koşullu Durumlar</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="kosul_deyimleri.html#kosul-deyimleri">Koşul Deyimleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="kosul_deyimleri.html#if">if</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kosul_deyimleri.html#elif">elif</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kosul_deyimleri.html#else">else</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="kosul_deyimleri.html#ornek-uygulama">Örnek Uygulama</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="islecler.html">İşleçler</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#aritmetik-islecler">Aritmetik İşleçler</a></li>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#karsilastirma-islecleri">Karşılaştırma İşleçleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#bool-islecleri">Bool İşleçleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#deger-atama-islecleri">Değer Atama İşleçleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#aitlik-islecleri">Aitlik İşleçleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#kimlik-islecleri">Kimlik İşleçleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="islecler.html#uygulama-ornekleri">Uygulama Örnekleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="islecler.html#basit-bir-hesap-makinesi">Basit Bir Hesap Makinesi</a></li>
-<li class="toctree-l3"><a class="reference internal" href="islecler.html#surume-gore-islem-yapan-program">Sürüme Göre İşlem Yapan Program</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="donguler.html">Döngüler (Loops)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="donguler.html#while-dongusu">while Döngüsü</a></li>
-<li class="toctree-l2"><a class="reference internal" href="donguler.html#for-dongusu">for Döngüsü</a></li>
-<li class="toctree-l2"><a class="reference internal" href="donguler.html#ilgili-araclar">İlgili Araçlar</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#range-fonksiyonu">range Fonksiyonu</a></li>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#pass-deyimi">pass Deyimi</a></li>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#break-deyimi">break Deyimi</a></li>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#continue-deyimi">continue Deyimi</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="donguler.html#ornek-uygulamalar">Örnek Uygulamalar</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#karakter-dizilerinin-icerigini-karsilastirma">Karakter Dizilerinin İçeriğini Karşılaştırma</a></li>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#dosyalarin-icerigini-karsilastirma">Dosyaların İçeriğini Karşılaştırma</a></li>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#karakter-dizisindeki-karakterleri-sayma">Karakter Dizisindeki Karakterleri Sayma</a></li>
-<li class="toctree-l3"><a class="reference internal" href="donguler.html#dosya-icindeki-karakterleri-sayma">Dosya içindeki Karakterleri Sayma</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="hata_yakalama.html">Hata Yakalama</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#hata-turleri">Hata Türleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#try-except">try... except...</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#try-except-as">try... except... as...</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#try-except-else">try... except... else...</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#try-except-finally">try... except... finally...</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#raise">raise</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#butun-hatalari-yakalamak">Bütün Hataları Yakalamak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="hata_yakalama.html#ornek-uygulama">Örnek Uygulama</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="karakter_dizileri.html">Karakter Dizileri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#karakter-dizilerinin-ogelerine-erismek">Karakter Dizilerinin Öğelerine Erişmek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#karakter-dizilerini-dilimlemek">Karakter Dizilerini Dilimlemek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#karakter-dizilerini-ters-cevirmek">Karakter Dizilerini Ters Çevirmek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#karakter-dizilerini-alfabe-sirasina-dizmek">Karakter Dizilerini Alfabe Sırasına Dizmek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#karakter-dizileri-uzerinde-degisiklik-yapmak">Karakter Dizileri Üzerinde Değişiklik Yapmak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#uc-onemli-fonksiyon">Üç Önemli Fonksiyon</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="karakter_dizileri.html#dir">dir()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_dizileri.html#enumerate">enumerate()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_dizileri.html#help">help()</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizileri.html#notlar">Notlar</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html">Karakter Dizilerinin Metotları</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#replace">replace()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#split-rsplit-splitlines">split(), rsplit(), splitlines()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#lower">lower()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#upper">upper()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#islower-isupper">islower(), isupper()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#endswith">endswith()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari1.html#startswith">startswith()</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html">Karakter Dizilerinin Metotları (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#capitalize">capitalize()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#title">title()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#swapcase">swapcase()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#casefold">casefold()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#strip-lstrip-rstrip">strip(), lstrip(), rstrip()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#join">join()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#count">count()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#index-rindex">index(), rindex()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#find-rfind">find, rfind()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#center">center()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#rjust-ljust">rjust(), ljust()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#zfill">zfill()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#partition-rpartition">partition(), rpartition()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#encode">encode()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari2.html#expandtabs">expandtabs()</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html">Karakter Dizilerinin Metotları (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#str-maketrans-translate">str.maketrans(), translate()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isalpha">isalpha()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isdigit">isdigit()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isalnum">isalnum()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isdecimal">isdecimal()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isidentifier">isidentifier()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isnumeric">isnumeric()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isspace">isspace()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerinin_metotlari3.html#isprintable">isprintable()</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html">Karakter Dizilerini Biçimlendirmek</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#isareti-ile-bicimlendirme-eski-yontem">% İşareti ile Biçimlendirme (Eski Yöntem)</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#bicimlendirme-karakterleri">Biçimlendirme Karakterleri</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#s">s</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#d">d</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#i">i</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#o">o</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#x">x</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id1">X</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#f">f</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#c">c</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#format-metodu-ile-bicimlendirme-yeni-yontem">format() Metodu ile Biçimlendirme (Yeni Yöntem)</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id2">Biçimlendirme Karakterleri</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id3">s</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id4">c</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id5">d</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id6">o</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id7">x</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id8">X</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#b">b</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id9">f</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_dizilerini_bicimlendirmek.html#id10">,</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="fstring.html">f-string</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="fstring.html#kullanim">Kullanım</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="listeler_ve_demetler.html">Listeler ve Demetler</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="listeler_ve_demetler.html#listeler">Listeler</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#liste-tanimlamak">Liste Tanımlamak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#list-fonksiyonu">list() Fonksiyonu</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listelerin-ogelerine-erismek">Listelerin Öğelerine Erişmek</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listelerin-ogelerini-degistirmek">Listelerin Öğelerini Değiştirmek</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listeye-oge-eklemek">Listeye Öğe Eklemek</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listeleri-birlestirmek">Listeleri Birleştirmek</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listeden-oge-cikarmak">Listeden Öğe Çıkarmak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listeleri-silmek">Listeleri Silmek</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#listeleri-kopyalamak">Listeleri Kopyalamak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#liste-uretecleri-list-comprehensions">Liste Üreteçleri (List Comprehensions)</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#ornek-program-x-o-x-oyunu">Örnek Program: X.O.X Oyunu</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="listeler_ve_demetler.html#demetler">Demetler</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#demet-tanimlamak">Demet Tanımlamak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#tek-ogeli-bir-demet-tanimlamak">Tek Öğeli bir Demet Tanımlamak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#demetlerin-ogelerine-erismek">Demetlerin Öğelerine Erişmek</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#demetlerle-listelerin-birbirinden-farki">Demetlerle Listelerin Birbirinden Farkı</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listeler_ve_demetler.html#demetlerin-kullanim-alani">Demetlerin Kullanım Alanı</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html">Listelerin ve Demetlerin Metotları</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#listelerin-metotlari">Listelerin Metotları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#append">append()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#extend">extend()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#insert">insert()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#remove">remove()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#reverse">reverse()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#pop">pop()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#sort">sort()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#index">index()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#count">count()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#copy">copy()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#clear">clear()</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#demetlerin-metotlari">Demetlerin Metotları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#id1">index()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="listelerin_ve_demetlerin_metotlari.html#id2">count()</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="sayma_sistemleri.html">Sayma Sistemleri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="sayma_sistemleri.html#onlu-sayma-sistemi">Onlu Sayma Sistemi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sayma_sistemleri.html#sekizli-sayma-sistemi">Sekizli Sayma Sistemi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sayma_sistemleri.html#on-altili-sayma-sistemi">On Altılı Sayma Sistemi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sayma_sistemleri.html#ikili-sayma-sistemi">İkili Sayma Sistemi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sayma_sistemleri.html#sayma-sistemlerini-birbirine-donusturme">Sayma Sistemlerini Birbirine Dönüştürme</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="sayma_sistemleri.html#fonksiyon-kullanarak">Fonksiyon Kullanarak</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#bin">bin()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#hex">hex()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#oct">oct()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#int">int()</a></li>
-</ul>
-</li>
-<li class="toctree-l3"><a class="reference internal" href="sayma_sistemleri.html#bicimlendirme-yoluyla">Biçimlendirme Yoluyla</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#b">b</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#x">x</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayma_sistemleri.html#o">o</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="sayma_sistemleri.html#sayma-sistemlerinin-birbirlerine-karsi-avantajlari">Sayma Sistemlerinin Birbirlerine Karşı Avantajları</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="sayilar.html">Sayılar</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="sayilar.html#sayilarin-metotlari">Sayıların Metotları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#tam-sayilarin-metotlari">Tam Sayıların Metotları</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="sayilar.html#bit-length">bit_length()</a></li>
-</ul>
-</li>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#kayan-noktali-sayilarin-metotlari">Kayan Noktalı Sayıların Metotları</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="sayilar.html#as-integer-ratio">as_integer_ratio()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayilar.html#is-integer">is_integer()</a></li>
-</ul>
-</li>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#karmasik-sayilarin-metotlari">Karmaşık Sayıların Metotları</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="sayilar.html#imag">imag</a></li>
-<li class="toctree-l4"><a class="reference internal" href="sayilar.html#real">real</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="sayilar.html#aritmetik-fonksiyonlar">Aritmetik Fonksiyonlar</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#abs">abs()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#divmod">divmod()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#max">max()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#min">min()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="sayilar.html#sum">sum()</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="temel_dosya_islemleri.html">Temel Dosya İşlemleri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosya-olusturmak">Dosya Oluşturmak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosyaya-yazmak">Dosyaya Yazmak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosya-okumak">Dosya Okumak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosyalari-otomatik-kapatma">Dosyaları Otomatik Kapatma</a></li>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosyayi-ileri-geri-sarmak">Dosyayı İleri-Geri Sarmak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosyalarda-degisiklik-yapmak">Dosyalarda Değişiklik Yapmak</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="temel_dosya_islemleri.html#dosyalarin-sonunda-degisiklik-yapmak">Dosyaların Sonunda Değişiklik Yapmak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="temel_dosya_islemleri.html#dosyalarin-basinda-degisiklik-yapmak">Dosyaların Başında Değişiklik Yapmak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="temel_dosya_islemleri.html#dosyalarin-ortasinda-degisiklik-yapmak">Dosyaların Ortasında Değişiklik Yapmak</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="temel_dosya_islemleri.html#dosyaya-erisme-kipleri">Dosyaya Erişme Kipleri</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html">Dosyaların Metot ve Nitelikleri</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#closed-niteligi">closed Niteliği</a></li>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#readable-metodu">readable() Metodu</a></li>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#writable-metodu">writable() Metodu</a></li>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#truncate-metodu">truncate() Metodu</a></li>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#mode-niteligi">mode Niteliği</a></li>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#name-niteligi">name Niteliği</a></li>
-<li class="toctree-l2"><a class="reference internal" href="dosyalarin_metot_ve_nitelikleri.html#encoding-niteligi">encoding Niteliği</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="ikili_dosyalar.html">İkili (<em>Binary</em>) Dosyalar</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="ikili_dosyalar.html#ikili-dosyalarla-ornekler">İkili Dosyalarla Örnekler</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="ikili_dosyalar.html#pdf-dosyalarindan-bilgi-alma">PDF Dosyalarından Bilgi Alma</a></li>
-<li class="toctree-l3"><a class="reference internal" href="ikili_dosyalar.html#resim-dosyalarinin-turunu-tespit-etme">Resim Dosyalarının Türünü Tespit Etme</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="ikili_dosyalar.html#jpeg">JPEG</a></li>
-<li class="toctree-l4"><a class="reference internal" href="ikili_dosyalar.html#png">PNG</a></li>
-<li class="toctree-l4"><a class="reference internal" href="ikili_dosyalar.html#gif">GIF</a></li>
-<li class="toctree-l4"><a class="reference internal" href="ikili_dosyalar.html#tiff">TIFF</a></li>
-<li class="toctree-l4"><a class="reference internal" href="ikili_dosyalar.html#bmp">BMP</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="basit_bir_iletisim_modeli.html">Basit bir İletişim Modeli</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="basit_bir_iletisim_modeli.html#bitlik-bir-sistem">8 Bitlik bir Sistem</a></li>
-<li class="toctree-l2"><a class="reference internal" href="basit_bir_iletisim_modeli.html#hata-kontrolu">Hata Kontrolü</a></li>
-<li class="toctree-l2"><a class="reference internal" href="basit_bir_iletisim_modeli.html#karakterlerin-temsili">Karakterlerin Temsili</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="karakter_kodlama.html">Karakter Kodlama (<em>Character Encoding</em>)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="karakter_kodlama.html#giris">Giriş</a></li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_kodlama.html#ascii">ASCII</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#bitlik-bir-sistem">7 Bitlik bir Sistem</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#genisletilmis-ascii">Genişletilmiş ASCII</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#karakter-1-bayt">1 Karakter == 1 Bayt</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_kodlama.html#unicode">UNICODE</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#sinirsiz-bitlik-bir-sistem">Sınırsız Bitlik bir Sistem</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#utf-8-kod-cozucusu">UTF-8 Kod Çözücüsü</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#id1">1 Karakter != 1 Bayt</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#eksik-karakterler-ve-encode-metodu">Eksik Karakterler ve encode Metodu</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#dosyalar-ve-karakter-kodlama">Dosyalar ve Karakter Kodlama</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="karakter_kodlama.html#encoding">encoding</a></li>
-<li class="toctree-l4"><a class="reference internal" href="karakter_kodlama.html#errors">errors</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="karakter_kodlama.html#konu-ile-ilgili-fonksiyonlar">Konu ile ilgili Fonksiyonlar</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#repr">repr()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#id2">ascii()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#ord">ord()</a></li>
-<li class="toctree-l3"><a class="reference internal" href="karakter_kodlama.html#chr">chr()</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html">Baytlar (Bytes) ve Bayt Dizileri (Bytearrays)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#giris">Giriş</a></li>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#eskisi-ve-yenisi">Eskisi ve Yenisi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#bayt-tanimlamak">Bayt Tanımlamak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#bytes-fonksiyonu">bytes() Fonksiyonu</a></li>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#baytlarin-metotlari">Baytların Metotları</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#decode">decode</a></li>
-<li class="toctree-l3"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#fromhex">fromhex</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#bayt-dizileri">Bayt Dizileri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="baytlar_ve_bayt_dizileri.html#bayt-dizilerinin-metotlari">Bayt Dizilerinin Metotları</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="sozlukler.html">Sözlükler</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="sozlukler.html#sozluk-tanimlamak">Sözlük Tanımlamak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozlukler.html#sozluk-ogelerine-erismek">Sözlük Öğelerine Erişmek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozlukler.html#sozluklerin-yapisi">Sözlüklerin Yapısı</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozlukler.html#sozluklere-oge-eklemek">Sözlüklere Öğe Eklemek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozlukler.html#sozluk-ogeleri-uzerinde-degisiklik-yapmak">Sözlük Öğeleri Üzerinde Değişiklik Yapmak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozlukler.html#sozluk-uretecleri-dictionary-comprehensions">Sözlük Üreteçleri (<em>Dictionary Comprehensions</em>)</a></li>
+</li>
+<li>Yorum ve A&ccedil;ıklama C&uuml;mleleri
+<ul>
+<li>Yorum İşareti</li>
+<li>Yorum İşaretinin Farklı Kullanımları
+<ul>
+<li>Etkisizleştirme Ama&ccedil;lı</li>
+<li>S&uuml;sleme Ama&ccedil;lı</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="sozluklerin_metotlari.html">Sözlüklerin Metotları</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#keys">keys()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#values">values()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#items">items()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#get">get()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#clear">clear()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#copy">copy()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#fromkeys">fromkeys()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#pop">pop()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#popitem">popitem()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#setdefault">setdefault()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="sozluklerin_metotlari.html#update">update()</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html">Kümeler ve Dondurulmuş Kümeler</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#kumeler">Kümeler</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#kume-olusturmak">Küme Oluşturmak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#kumelerin-yapisi">Kümelerin Yapısı</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#kume-uretecleri-set-comprehensions">Küme Üreteçleri (<em>Set Comprehensions</em>)</a></li>
-<li class="toctree-l3"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#kumelerin-metotlari">Kümelerin Metotları</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#clear">clear()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#copy">copy()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#add">add()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#difference">difference()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#difference-update">difference_update()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#discard">discard()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#remove">remove()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#intersection">intersection()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#intersection-update">intersection_update()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#isdisjoint">isdisjoint()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#issubset">issubset()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#issuperset">issuperset()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#union">union()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#update">update()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#symmetric-difference">symmetric_difference()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#symmetric-difference-update">symmetric_difference_update()</a></li>
-<li class="toctree-l4"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#pop">pop()</a></li>
+<li>Kullanıcıdan Bilgi Almak
+<ul>
+<li>input() Fonksiyonu</li>
+<li>Tip D&ouml;n&uuml;ş&uuml;mleri
+<ul>
+<li>int()</li>
+<li>str()</li>
+<li>float()</li>
+<li>complex()</li>
 </ul>
 </li>
+<li>eval() ve exec() Fonksiyonları</li>
+<li>format() Metodu</li>
+</ul>
+</li>
+<li>Koşullu Durumlar
+<ul>
+<li>Koşul Deyimleri
+<ul>
+<li>if</li>
+<li>elif</li>
+<li>else</li>
+</ul>
+</li>
+<li>&Ouml;rnek Uygulama</li>
+</ul>
+</li>
+<li>İşle&ccedil;ler
+<ul>
+<li>Aritmetik İşle&ccedil;ler</li>
+<li>Karşılaştırma İşle&ccedil;leri</li>
+<li>Bool İşle&ccedil;leri</li>
+<li>Değer Atama İşle&ccedil;leri</li>
+<li>Aitlik İşle&ccedil;leri</li>
+<li>Kimlik İşle&ccedil;leri</li>
+<li>Uygulama &Ouml;rnekleri
+<ul>
+<li>Basit Bir Hesap Makinesi</li>
+<li>S&uuml;r&uuml;me G&ouml;re İşlem Yapan Program</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>D&ouml;ng&uuml;ler (Loops)
+<ul>
+<li>while D&ouml;ng&uuml;s&uuml;</li>
+<li>for D&ouml;ng&uuml;s&uuml;</li>
+<li>İlgili Ara&ccedil;lar
+<ul>
+<li>range Fonksiyonu</li>
+<li>pass Deyimi</li>
+<li>break Deyimi</li>
+<li>continue Deyimi</li>
+</ul>
+</li>
+<li>&Ouml;rnek Uygulamalar
+<ul>
+<li>Karakter Dizilerinin İ&ccedil;eriğini Karşılaştırma</li>
+<li>Dosyaların İ&ccedil;eriğini Karşılaştırma</li>
+<li>Karakter Dizisindeki Karakterleri Sayma</li>
+<li>Dosya i&ccedil;indeki Karakterleri Sayma</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Hata Yakalama
+<ul>
+<li>Hata T&uuml;rleri</li>
+<li>try... except...</li>
+<li>try... except... as...</li>
+<li>try... except... else...</li>
+<li>try... except... finally...</li>
+<li>raise</li>
+<li>B&uuml;t&uuml;n Hataları Yakalamak</li>
+<li>&Ouml;rnek Uygulama</li>
+</ul>
+</li>
+<li>Karakter Dizileri
+<ul>
+<li>Karakter Dizilerinin &Ouml;ğelerine Erişmek</li>
+<li>Karakter Dizilerini Dilimlemek</li>
+<li>Karakter Dizilerini Ters &Ccedil;evirmek</li>
+<li>Karakter Dizilerini Alfabe Sırasına Dizmek</li>
+<li>Karakter Dizileri &Uuml;zerinde Değişiklik Yapmak</li>
+<li>&Uuml;&ccedil; &Ouml;nemli Fonksiyon
+<ul>
+<li>dir()</li>
+<li>enumerate()</li>
+<li>help()</li>
+</ul>
+</li>
+<li>Notlar</li>
+</ul>
+</li>
+<li>Karakter Dizilerinin Metotları
+<ul>
+<li>replace()</li>
+<li>split(), rsplit(), splitlines()</li>
+<li>lower()</li>
+<li>upper()</li>
+<li>islower(), isupper()</li>
+<li>endswith()</li>
+<li>startswith()</li>
+</ul>
+</li>
+<li>Karakter Dizilerinin Metotları (Devamı)
+<ul>
+<li>capitalize()</li>
+<li>title()</li>
+<li>swapcase()</li>
+<li>casefold()</li>
+<li>strip(), lstrip(), rstrip()</li>
+<li>join()</li>
+<li>count()</li>
+<li>index(), rindex()</li>
+<li>find, rfind()</li>
+<li>center()</li>
+<li>rjust(), ljust()</li>
+<li>zfill()</li>
+<li>partition(), rpartition()</li>
+<li>encode()</li>
+<li>expandtabs()</li>
+</ul>
+</li>
+<li>Karakter Dizilerinin Metotları (Devamı)
+<ul>
+<li>str.maketrans(), translate()</li>
+<li>isalpha()</li>
+<li>isdigit()</li>
+<li>isalnum()</li>
+<li>isdecimal()</li>
+<li>isidentifier()</li>
+<li>isnumeric()</li>
+<li>isspace()</li>
+<li>isprintable()</li>
+</ul>
+</li>
+<li>Karakter Dizilerini Bi&ccedil;imlendirmek
+<ul>
+<li>% İşareti ile Bi&ccedil;imlendirme (Eski Y&ouml;ntem)
+<ul>
+<li>Bi&ccedil;imlendirme Karakterleri
+<ul>
+<li>s</li>
+<li>d</li>
+<li>i</li>
+<li>o</li>
+<li>x</li>
+<li>X</li>
+<li>f</li>
+<li>c</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>format() Metodu ile Bi&ccedil;imlendirme (Yeni Y&ouml;ntem)
+<ul>
+<li>Bi&ccedil;imlendirme Karakterleri
+<ul>
+<li>s</li>
+<li>c</li>
+<li>d</li>
+<li>o</li>
+<li>x</li>
+<li>X</li>
+<li>b</li>
+<li>f</li>
+<li>,</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>f-string
+<ul>
+<li>Kullanım</li>
+</ul>
+</li>
+<li>Listeler ve Demetler
+<ul>
+<li>Listeler
+<ul>
+<li>Liste Tanımlamak</li>
+<li>list() Fonksiyonu</li>
+<li>Listelerin &Ouml;ğelerine Erişmek</li>
+<li>Listelerin &Ouml;ğelerini Değiştirmek</li>
+<li>Listeye &Ouml;ğe Eklemek</li>
+<li>Listeleri Birleştirmek</li>
+<li>Listeden &Ouml;ğe &Ccedil;ıkarmak</li>
+<li>Listeleri Silmek</li>
+<li>Listeleri Kopyalamak</li>
+<li>Liste &Uuml;rete&ccedil;leri (List Comprehensions)</li>
+<li>&Ouml;rnek Program: X.O.X Oyunu</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="kumeler_ve_dondurulmus_kumeler.html#dondurulmus-kumeler-frozenset">Dondurulmuş Kümeler (Frozenset)</a></li>
+<li>Demetler
+<ul>
+<li>Demet Tanımlamak</li>
+<li>Tek &Ouml;ğeli bir Demet Tanımlamak</li>
+<li>Demetlerin &Ouml;ğelerine Erişmek</li>
+<li>Demetlerle Listelerin Birbirinden Farkı</li>
+<li>Demetlerin Kullanım Alanı</li>
 </ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="fonksiyonlar.html">Fonksiyonlar</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#fonksiyon-nedir-ve-ne-ise-yarar">Fonksiyon Nedir ve Ne İşe Yarar?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#fonksiyon-tanimlamak-ve-cagirmak">Fonksiyon Tanımlamak ve Çağırmak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#fonksiyonlarin-yapisi">Fonksiyonların Yapısı</a></li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#fonksiyonlar-ne-ise-yarar">Fonksiyonlar Ne İşe Yarar?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#parametreler-ve-argumanlar">Parametreler ve Argümanlar</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="fonksiyonlar.html#sirali-veya-isimsiz-parametreler">Sıralı (veya İsimsiz) Parametreler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="fonksiyonlar.html#isimli-parametreler">İsimli Parametreler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="fonksiyonlar.html#varsayilan-degerli-parametreler">Varsayılan Değerli Parametreler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="fonksiyonlar.html#rastgele-sayida-isimsiz-parametre-belirleme">Rastgele Sayıda İsimsiz Parametre Belirleme</a></li>
-<li class="toctree-l3"><a class="reference internal" href="fonksiyonlar.html#rastgele-sayida-isimli-parametre-belirleme">Rastgele Sayıda İsimli Parametre Belirleme</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#return-deyimi">return Deyimi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#ornek-bir-uygulama">Örnek bir Uygulama</a></li>
-<li class="toctree-l2"><a class="reference internal" href="fonksiyonlar.html#fonksiyonlarin-kapsami-ve-global-deyimi">Fonksiyonların Kapsamı ve global Deyimi</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="gomulu_fonksiyonlar.html">Gömülü Fonksiyonlar</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#abs">abs()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#round">round()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#all">all()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#any">any()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#ascii">ascii()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#repr">repr()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#bool">bool()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#bin">bin()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#bytes">bytes()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#bytearray">bytearray()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#chr">chr()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#list">list()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#set">set()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#tuple">tuple()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#frozenset">frozenset()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#complex">complex()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#float">float()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#int">int()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#str">str()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#dict">dict()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#callable">callable()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#ord">ord()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#oct">oct()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#hex">hex()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#eval-exec-globals-locals-compile">eval(), exec(), globals(), locals(), compile()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#copyright">copyright()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#credits">credits()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#license">license()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#dir">dir()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#divmod">divmod()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#enumerate">enumerate()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#exit">exit()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#help">help()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#id">id()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#input">input()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#format">format()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#filter">filter()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#hash">hash()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#isinstance">isinstance()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#len">len()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#map">map()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#max">max()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#min">min()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#open">open()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#pow">pow()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#print">print()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#quit">quit()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#range">range()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#reversed">reversed()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#sorted">sorted()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#slice">slice()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#sum">sum()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#type">type()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#zip">zip()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gomulu_fonksiyonlar.html#vars">vars()</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="ileri_fonksiyonlar.html">İleri Düzey Fonksiyonlar</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="ileri_fonksiyonlar.html#lambda-fonksiyonlari">Lambda Fonksiyonları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="ileri_fonksiyonlar.html#ozyinelemeli-recursive-fonksiyonlar">Özyinelemeli (<em>Recursive</em>) Fonksiyonlar</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="moduller.html">Modüller</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#modul-nedir">Modül Nedir?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#hazir-moduller">Hazır Modüller</a></li>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#modullerin-ice-aktarilmasi">Modüllerin İçe Aktarılması</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#farkli-ice-aktarma-yontemleri">Farklı İçe Aktarma Yöntemleri</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="moduller.html#import-modul-adi-as-farkli-isim">import modül_adı as farklı_isim</a></li>
-<li class="toctree-l4"><a class="reference internal" href="moduller.html#from-modul-adi-import-isim1-isim2">from modül_adı import isim1, isim2</a></li>
-<li class="toctree-l4"><a class="reference internal" href="moduller.html#from-modul-adi-import-isim-as-farkli-isim">from modül_adı import isim as farklı_isim</a></li>
-<li class="toctree-l4"><a class="reference internal" href="moduller.html#from-modul-adi-import">from modül_adı import *</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#kendi-tanimladigimiz-moduller">Kendi Tanımladığımız Modüller</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#modullerin-tanimlanmasi">Modüllerin Tanımlanması</a></li>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#modullerin-yolu">Modüllerin Yolu</a></li>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#modullerde-degisiklik-yapmak">Modüllerde Değişiklik Yapmak</a></li>
-</ul>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#ucuncu-sahis-modulleri">Üçüncü Şahıs Modülleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#all-listesi">__all__ Listesi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="moduller.html#modullerin-ozel-nitelikleri">Modüllerin Özel Nitelikleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#doc-niteligi">__doc__ Niteliği</a></li>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#name-niteligi">__name__ Niteliği</a></li>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#loader-niteligi">__loader__ Niteliği</a></li>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#spec-niteligi">__spec__ Niteliği</a></li>
-<li class="toctree-l3"><a class="reference internal" href="moduller.html#package-niteligi">__package__ Niteliği</a></li>
+</li>
+</ul>
+</li>
+<li>Listelerin ve Demetlerin Metotları
+<ul>
+<li>Listelerin Metotları
+<ul>
+<li>append()</li>
+<li>extend()</li>
+<li>insert()</li>
+<li>remove()</li>
+<li>reverse()</li>
+<li>pop()</li>
+<li>sort()</li>
+<li>index()</li>
+<li>count()</li>
+<li>copy()</li>
+<li>clear()</li>
 </ul>
 </li>
+<li>Demetlerin Metotları
+<ul>
+<li>index()</li>
+<li>count()</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Sayma Sistemleri
+<ul>
+<li>Onlu Sayma Sistemi</li>
+<li>Sekizli Sayma Sistemi</li>
+<li>On Altılı Sayma Sistemi</li>
+<li>İkili Sayma Sistemi</li>
+<li>Sayma Sistemlerini Birbirine D&ouml;n&uuml;şt&uuml;rme
+<ul>
+<li>Fonksiyon Kullanarak
+<ul>
+<li>bin()</li>
+<li>hex()</li>
+<li>oct()</li>
+<li>int()</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama1.html">Nesne Tabanlı Programlama (OOP)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#giris">Giriş</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#siniflar">Sınıflar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#siniflar-ne-ise-yarar">Sınıflar Ne İşe Yarar?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#sinif-tanimlamak">Sınıf Tanımlamak</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#sinif-nitelikleri">Sınıf Nitelikleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#siniflarin-orneklenmesi">Sınıfların Örneklenmesi</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#ornek-nitelikleri">Örnek Nitelikleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#init-fonksiyonu-ve-self">__init__ Fonksiyonu ve self</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama1.html#ornek-metotlari">Örnek Metotları</a></li>
+<li>Bi&ccedil;imlendirme Yoluyla
+<ul>
+<li>b</li>
+<li>x</li>
+<li>o</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama2.html">Nesne Tabanlı Programlama (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama2.html#sinif-metotlari">Sınıf Metotları</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama2.html#classmethod-bezeyicisi-ve-cls">@classmethod Bezeyicisi ve cls</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama2.html#alternatif-insacilar">Alternatif İnşacılar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama2.html#statik-metotlar">Statik Metotlar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama2.html#staticmethod-bezeyicisi">@staticmethod Bezeyicisi</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama3.html">Nesne Tabanlı Programlama (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama3.html#nesneler">Nesneler</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama3.html#nesne-nedir">Nesne Nedir?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama3.html#basit-bir-oyun">Basit Bir Oyun</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama3.html#her-sey-bir-nesnedir">Her Şey Bir Nesnedir</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama3.html#birinci-sinif-ogeler">Birinci Sınıf Öğeler</a></li>
+<li>Sayma Sistemlerinin Birbirlerine Karşı Avantajları</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama4.html">Nesne Tabanlı Programlama (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama4.html#sinif-uyeleri">Sınıf Üyeleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#aleni-uyeler">Aleni Üyeler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#gizli-uyeler">Gizli Üyeler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#isim-bulandirma">İsim Bulandırma</a></li>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#yari-gizli-uyeler">Yarı-gizli Üyeler</a></li>
+<li>Sayılar
+<ul>
+<li>Sayıların Metotları
+<ul>
+<li>Tam Sayıların Metotları
+<ul>
+<li>bit_length()</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama4.html#property-bezeyicisi">@property Bezeyicisi</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#metottan-nitelige">Metottan Niteliğe</a></li>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#salt-okunur-nitelikler">Salt Okunur Nitelikler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama4.html#veri-dogrulamasi">Veri Doğrulaması</a></li>
+<li>Kayan Noktalı Sayıların Metotları
+<ul>
+<li>as_integer_ratio()</li>
+<li>is_integer()</li>
 </ul>
 </li>
+<li>Karmaşık Sayıların Metotları
+<ul>
+<li>imag</li>
+<li>real</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama5.html">Nesne Tabanlı Programlama (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama5.html#miras-alma">Miras Alma</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama5.html#taban-siniflar">Taban Sınıflar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama5.html#alt-siniflar">Alt Sınıflar</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama5.html#miras-alma-turleri">Miras Alma Türleri</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama5.html#super">super()</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama5.html#object-sinifi">object Sınıfı</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama6.html">Nesne Tabanlı Programlama (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama6.html#tkinter-hakkinda">Tkinter Hakkında</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama6.html#prosedurel-bir-ornek">Prosedürel Bir Örnek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama6.html#sinifli-bir-ornek">Sınıflı Bir Örnek</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama6.html#coklu-miras-alma">Çoklu Miras Alma</a></li>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama6.html#dahil-etme">Dahil Etme</a></li>
+<li>Aritmetik Fonksiyonlar
+<ul>
+<li>abs()</li>
+<li>divmod()</li>
+<li>max()</li>
+<li>min()</li>
+<li>sum()</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="nesne_tabanli_programlama7.html">Nesne Tabanlı Programlama (Devamı)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="nesne_tabanli_programlama7.html#insa-ilklendirme-ve-sonlandirma">İnşa, İlklendirme ve Sonlandırma</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="nesne_tabanli_programlama7.html#new-metodu">__new__() Metodu</a></li>
 </ul>
 </li>
+<li>Temel Dosya İşlemleri
+<ul>
+<li>Dosya Oluşturmak</li>
+<li>Dosyaya Yazmak</li>
+<li>Dosya Okumak</li>
+<li>Dosyaları Otomatik Kapatma</li>
+<li>Dosyayı İleri-Geri Sarmak</li>
+<li>Dosyalarda Değişiklik Yapmak
+<ul>
+<li>Dosyaların Sonunda Değişiklik Yapmak</li>
+<li>Dosyaların Başında Değişiklik Yapmak</li>
+<li>Dosyaların Ortasında Değişiklik Yapmak</li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="paketler.html">Paketler</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="paketler.html#paket-nedir">Paket Nedir?</a></li>
-<li class="toctree-l2"><a class="reference internal" href="paketler.html#paket-turleri">Paket Türleri</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#standart-paketler">Standart Paketler</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#ucuncu-sahis-paketleri">Üçüncü Şahıs Paketleri</a></li>
+<li>Dosyaya Erişme Kipleri</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="paketler.html#paketlerin-ice-aktarilmasi">Paketlerin İçe Aktarılması</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#import-paket">import paket</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#import-paket-modul">import paket.modül</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#from-paket-import-modul">from paket import modül</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#from-paket-modul-import-nitelik-veya-metot">from paket.modül import nitelik_veya_metot</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#from-paket-modul-import">from paket.modül import *</a></li>
+<li>Dosyaların Metot ve Nitelikleri
+<ul>
+<li>closed Niteliği</li>
+<li>readable() Metodu</li>
+<li>writable() Metodu</li>
+<li>truncate() Metodu</li>
+<li>mode Niteliği</li>
+<li>name Niteliği</li>
+<li>encoding Niteliği</li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="paketler.html#kendi-olusturdugumuz-paketler">Kendi Oluşturduğumuz Paketler</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#paket-olusturmak">Paket Oluşturmak</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#ice-aktarma-islemleri">İçe Aktarma İşlemleri</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#ice-aktarma-mantigi">İçe Aktarma Mantığı</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="paketler.html#ice-aktarma-isleminin-konumu">İçe Aktarma İşleminin Konumu</a></li>
-<li class="toctree-l4"><a class="reference internal" href="paketler.html#bagil-ice-aktarma">Bağıl İçe Aktarma</a></li>
+<li>İkili (<em>Binary</em>) Dosyalar
+<ul>
+<li>İkili Dosyalarla &Ouml;rnekler
+<ul>
+<li>PDF Dosyalarından Bilgi Alma</li>
+<li>Resim Dosyalarının T&uuml;r&uuml;n&uuml; Tespit Etme
+<ul>
+<li>JPEG</li>
+<li>PNG</li>
+<li>GIF</li>
+<li>TIFF</li>
+<li>BMP</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Basit bir İletişim Modeli
+<ul>
+<li>8 Bitlik bir Sistem</li>
+<li>Hata Kontrol&uuml;</li>
+<li>Karakterlerin Temsili</li>
+</ul>
+</li>
+<li>Karakter Kodlama (<em>Character Encoding</em>)
+<ul>
+<li>Giriş</li>
+<li>ASCII
+<ul>
+<li>7 Bitlik bir Sistem</li>
+<li>Genişletilmiş ASCII</li>
+<li>1 Karakter == 1 Bayt</li>
 </ul>
-</li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#paketlerin-yola-eklenmesi">Paketlerin Yola Eklenmesi</a></li>
-<li class="toctree-l3"><a class="reference internal" href="paketler.html#paketlerde-isim-cakismalari">Paketlerde İsim Çakışmaları</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="paketler.html#init-py-dosyasi">__init__.py Dosyası</a></li>
+</li>
+<li>UNICODE
+<ul>
+<li>Sınırsız Bitlik bir Sistem</li>
+<li>UTF-8 Kod &Ccedil;&ouml;z&uuml;c&uuml;s&uuml;</li>
+<li>1 Karakter != 1 Bayt</li>
+<li>Eksik Karakterler ve encode Metodu</li>
+<li>Dosyalar ve Karakter Kodlama
+<ul>
+<li>encoding</li>
+<li>errors</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Konu ile ilgili Fonksiyonlar
+<ul>
+<li>repr()</li>
+<li>ascii()</li>
+<li>ord()</li>
+<li>chr()</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Baytlar (Bytes) ve Bayt Dizileri (Bytearrays)
+<ul>
+<li>Giriş</li>
+<li>Eskisi ve Yenisi</li>
+<li>Bayt Tanımlamak</li>
+<li>bytes() Fonksiyonu</li>
+<li>Baytların Metotları
+<ul>
+<li>decode</li>
+<li>fromhex</li>
+</ul>
+</li>
+<li>Bayt Dizileri</li>
+<li>Bayt Dizilerinin Metotları</li>
+</ul>
+</li>
+<li>S&ouml;zl&uuml;kler
+<ul>
+<li>S&ouml;zl&uuml;k Tanımlamak</li>
+<li>S&ouml;zl&uuml;k &Ouml;ğelerine Erişmek</li>
+<li>S&ouml;zl&uuml;klerin Yapısı</li>
+<li>S&ouml;zl&uuml;klere &Ouml;ğe Eklemek</li>
+<li>S&ouml;zl&uuml;k &Ouml;ğeleri &Uuml;zerinde Değişiklik Yapmak</li>
+<li>S&ouml;zl&uuml;k &Uuml;rete&ccedil;leri (<em>Dictionary Comprehensions</em>)</li>
+</ul>
+</li>
+<li>S&ouml;zl&uuml;klerin Metotları
+<ul>
+<li>keys()</li>
+<li>values()</li>
+<li>items()</li>
+<li>get()</li>
+<li>clear()</li>
+<li>copy()</li>
+<li>fromkeys()</li>
+<li>pop()</li>
+<li>popitem()</li>
+<li>setdefault()</li>
+<li>update()</li>
+</ul>
+</li>
+<li>K&uuml;meler ve Dondurulmuş K&uuml;meler
+<ul>
+<li>K&uuml;meler
+<ul>
+<li>K&uuml;me Oluşturmak</li>
+<li>K&uuml;melerin Yapısı</li>
+<li>K&uuml;me &Uuml;rete&ccedil;leri (<em>Set Comprehensions</em>)</li>
+<li>K&uuml;melerin Metotları
+<ul>
+<li>clear()</li>
+<li>copy()</li>
+<li>add()</li>
+<li>difference()</li>
+<li>difference_update()</li>
+<li>discard()</li>
+<li>remove()</li>
+<li>intersection()</li>
+<li>intersection_update()</li>
+<li>isdisjoint()</li>
+<li>issubset()</li>
+<li>issuperset()</li>
+<li>union()</li>
+<li>update()</li>
+<li>symmetric_difference()</li>
+<li>symmetric_difference_update()</li>
+<li>pop()</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Dondurulmuş K&uuml;meler (Frozenset)</li>
+</ul>
+</li>
+<li>Fonksiyonlar
+<ul>
+<li>Fonksiyon Nedir ve Ne İşe Yarar?</li>
+<li>Fonksiyon Tanımlamak ve &Ccedil;ağırmak</li>
+<li>Fonksiyonların Yapısı</li>
+<li>Fonksiyonlar Ne İşe Yarar?</li>
+<li>Parametreler ve Arg&uuml;manlar
+<ul>
+<li>Sıralı (veya İsimsiz) Parametreler</li>
+<li>İsimli Parametreler</li>
+<li>Varsayılan Değerli Parametreler</li>
+<li>Rastgele Sayıda İsimsiz Parametre Belirleme</li>
+<li>Rastgele Sayıda İsimli Parametre Belirleme</li>
+</ul>
+</li>
+<li>return Deyimi</li>
+<li>&Ouml;rnek bir Uygulama</li>
+<li>Fonksiyonların Kapsamı ve global Deyimi</li>
+</ul>
+</li>
+<li>G&ouml;m&uuml;l&uuml; Fonksiyonlar
+<ul>
+<li>abs()</li>
+<li>round()</li>
+<li>all()</li>
+<li>any()</li>
+<li>ascii()</li>
+<li>repr()</li>
+<li>bool()</li>
+<li>bin()</li>
+<li>bytes()</li>
+<li>bytearray()</li>
+<li>chr()</li>
+<li>list()</li>
+<li>set()</li>
+<li>tuple()</li>
+<li>frozenset()</li>
+<li>complex()</li>
+<li>float()</li>
+<li>int()</li>
+<li>str()</li>
+<li>dict()</li>
+<li>callable()</li>
+<li>ord()</li>
+<li>oct()</li>
+<li>hex()</li>
+<li>eval(), exec(), globals(), locals(), compile()</li>
+<li>copyright()</li>
+<li>credits()</li>
+<li>license()</li>
+<li>dir()</li>
+<li>divmod()</li>
+<li>enumerate()</li>
+<li>exit()</li>
+<li>help()</li>
+<li>id()</li>
+<li>input()</li>
+<li>format()</li>
+<li>filter()</li>
+<li>hash()</li>
+<li>isinstance()</li>
+<li>len()</li>
+<li>map()</li>
+<li>max()</li>
+<li>min()</li>
+<li>open()</li>
+<li>pow()</li>
+<li>print()</li>
+<li>quit()</li>
+<li>range()</li>
+<li>reversed()</li>
+<li>sorted()</li>
+<li>slice()</li>
+<li>sum()</li>
+<li>type()</li>
+<li>zip()</li>
+<li>vars()</li>
+</ul>
+</li>
+<li>İleri D&uuml;zey Fonksiyonlar
+<ul>
+<li>Lambda Fonksiyonları</li>
+<li>&Ouml;zyinelemeli (<em>Recursive</em>) Fonksiyonlar</li>
+</ul>
+</li>
+<li>Mod&uuml;ller
+<ul>
+<li>Mod&uuml;l Nedir?</li>
+<li>Hazır Mod&uuml;ller</li>
+<li>Mod&uuml;llerin İ&ccedil;e Aktarılması
+<ul>
+<li>Farklı İ&ccedil;e Aktarma Y&ouml;ntemleri
+<ul>
+<li>import mod&uuml;l_adı as farklı_isim</li>
+<li>from mod&uuml;l_adı import isim1, isim2</li>
+<li>from mod&uuml;l_adı import isim as farklı_isim</li>
+<li>from mod&uuml;l_adı import *</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Kendi Tanımladığımız Mod&uuml;ller
+<ul>
+<li>Mod&uuml;llerin Tanımlanması</li>
+<li>Mod&uuml;llerin Yolu</li>
+<li>Mod&uuml;llerde Değişiklik Yapmak</li>
+</ul>
+</li>
+<li>&Uuml;&ccedil;&uuml;nc&uuml; Şahıs Mod&uuml;lleri</li>
+<li>__all__ Listesi</li>
+<li>Mod&uuml;llerin &Ouml;zel Nitelikleri
+<ul>
+<li>__doc__ Niteliği</li>
+<li>__name__ Niteliği</li>
+<li>__loader__ Niteliği</li>
+<li>__spec__ Niteliği</li>
+<li>__package__ Niteliği</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (OOP)
+<ul>
+<li>Giriş</li>
+<li>Sınıflar</li>
+<li>Sınıflar Ne İşe Yarar?</li>
+<li>Sınıf Tanımlamak</li>
+<li>Sınıf Nitelikleri</li>
+<li>Sınıfların &Ouml;rneklenmesi</li>
+<li>&Ouml;rnek Nitelikleri</li>
+<li>__init__ Fonksiyonu ve self</li>
+<li>&Ouml;rnek Metotları</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (Devamı)
+<ul>
+<li>Sınıf Metotları</li>
+<li>@classmethod Bezeyicisi ve cls</li>
+<li>Alternatif İnşacılar</li>
+<li>Statik Metotlar</li>
+<li>@staticmethod Bezeyicisi</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (Devamı)
+<ul>
+<li>Nesneler</li>
+<li>Nesne Nedir?</li>
+<li>Basit Bir Oyun</li>
+<li>Her Şey Bir Nesnedir</li>
+<li>Birinci Sınıf &Ouml;ğeler</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (Devamı)
+<ul>
+<li>Sınıf &Uuml;yeleri
+<ul>
+<li>Aleni &Uuml;yeler</li>
+<li>Gizli &Uuml;yeler</li>
+<li>İsim Bulandırma</li>
+<li>Yarı-gizli &Uuml;yeler</li>
+</ul>
+</li>
+<li>@property Bezeyicisi
+<ul>
+<li>Metottan Niteliğe</li>
+<li>Salt Okunur Nitelikler</li>
+<li>Veri Doğrulaması</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (Devamı)
+<ul>
+<li>Miras Alma</li>
+<li>Taban Sınıflar</li>
+<li>Alt Sınıflar</li>
+<li>Miras Alma T&uuml;rleri</li>
+<li>super()</li>
+<li>object Sınıfı</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (Devamı)
+<ul>
+<li>Tkinter Hakkında</li>
+<li>Prosed&uuml;rel Bir &Ouml;rnek</li>
+<li>Sınıflı Bir &Ouml;rnek</li>
+<li>&Ccedil;oklu Miras Alma</li>
+<li>Dahil Etme</li>
+</ul>
+</li>
+<li>Nesne Tabanlı Programlama (Devamı)
+<ul>
+<li>İnşa, İlklendirme ve Sonlandırma
+<ul>
+<li>__new__() Metodu</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Paketler
+<ul>
+<li>Paket Nedir?</li>
+<li>Paket T&uuml;rleri
+<ul>
+<li>Standart Paketler</li>
+<li>&Uuml;&ccedil;&uuml;nc&uuml; Şahıs Paketleri</li>
+</ul>
+</li>
+<li>Paketlerin İ&ccedil;e Aktarılması
+<ul>
+<li>import paket</li>
+<li>import paket.mod&uuml;l</li>
+<li>from paket import mod&uuml;l</li>
+<li>from paket.mod&uuml;l import nitelik_veya_metot</li>
+<li>from paket.mod&uuml;l import *</li>
+</ul>
+</li>
+<li>Kendi Oluşturduğumuz Paketler
+<ul>
+<li>Paket Oluşturmak</li>
+<li>İ&ccedil;e Aktarma İşlemleri</li>
+<li>İ&ccedil;e Aktarma Mantığı
+<ul>
+<li>İ&ccedil;e Aktarma İşleminin Konumu</li>
+<li>Bağıl İ&ccedil;e Aktarma</li>
+</ul>
+</li>
+<li>Paketlerin Yola Eklenmesi</li>
+<li>Paketlerde İsim &Ccedil;akışmaları
+<ul>
+<li>__init__.py Dosyası</li>
 </ul>
 </li>
 </ul>
