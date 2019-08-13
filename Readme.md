@@ -4,7 +4,17 @@ https://belgeler.yazbel.com/python-istihza/
 
 Teşekkürler...
 
-
+<style>
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+</style>
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1">Bu Kitap Hakkında
