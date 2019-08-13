@@ -5,12 +5,12 @@ https://belgeler.yazbel.com/python-istihza/
 Teşekkürler...
 
 
-*	Bu Kitap Hakkında
+1	Bu Kitap Hakkında
         - 	Bu Kitaptan Nasıl Yararlanabilirim?
         - 	Nereden Yardım Alabilirim?
         - 	Projeye Nasıl Yardımcı Olabilirim?
         - 	Kullanım Koşulları
-*	Python Hakkında
+2	Python Hakkında
         - 	Python Nedir?
         - 	Neden Programlama Öğrenmek İsteyeyim?
         - 	Neden Python?
@@ -18,7 +18,7 @@ Teşekkürler...
         - 	Platform Desteği
         - 	Farklı Python Sürümleri
         - 	Hangi Seriyi Öğrenmeliyim?
-*	Python Nasıl Kurulur?
+3	Python Nasıl Kurulur?
         - 	GNU/Linux Kullanıcıları
                 > 	Kurulu Python Sürümü
                 > 	Paket Deposundan Kurulum
@@ -27,7 +27,7 @@ Teşekkürler...
                         >> 	Yetkisiz Kullanıcı Olarak Kurulum
         - 	Windows Kullanıcıları
         - 	Python Kurulum ve Çalışma Dizini
-*	Python Nasıl Çalıştırılır?
+4	Python Nasıl Çalıştırılır?
         - 	GNU/Linux Kullanıcıları
                 > 	Kurulu Python3’ü Kullananlar
                 > 	Python3’ü Depodan Kuranlar
@@ -39,7 +39,7 @@ Teşekkürler...
                 > 	Windows’ta Farklı Sürümleri Birlikte Kullanmak
         - 	Hangi Komut Hangi Sürümü Çalıştırıyor?
         - 	Sistem Komut Satırı ve Python Komut Satırı
-*	Etkileşimli Python
+5	Etkileşimli Python
         - 	Etkileşimli Kabukta İlk Adımlar
                 > 	Karakter Dizilerine Giriş
                 > 	Sayılara Giriş
@@ -50,7 +50,7 @@ Teşekkürler...
         - 	Aynı Değere Sahip Değişkenler Tanımlama
         - 	Değişkenlerin Değerini Takas Etme
         - 	Etkileşimli Kabuğun Hafızası
-*	print() Fonksiyonu
+6	print() Fonksiyonu
         - 	Nedir, Ne İşe Yarar?
         - 	Nasıl Kullanılır?
         - 	Bir Fonksiyon Olarak print()
@@ -62,7 +62,7 @@ Teşekkürler...
         - 	Birkaç Pratik Bilgi
                 > 	Yıldızlı Parametreler
                 > 	sys.stdout’u Kalıcı Olarak Değiştirmek
-*	Kaçış Dizileri
+7	Kaçış Dizileri
         - 	Ters Taksim (\)
         - 	Satır Başı (\n)
         - 	Sekme (\t)
@@ -77,21 +77,21 @@ Teşekkürler...
         - 	Etkisizleştirme (r)
         - 	Sayfa Başı (\f)
         - 	Kaçış Dizilerine Toplu Bakış
-*	Programları Kaydetme ve Çalıştırma
+8	Programları Kaydetme ve Çalıştırma
         - 	GNU/Linux
         - 	Windows
-*	Çalışma Ortamı Tavsiyesi
+9	Çalışma Ortamı Tavsiyesi
         - 	Windows Kullanıcıları
         - 	GNU/Linux Kullanıcıları
         - 	Metin Düzenleyici Ayarları
         - 	MS-DOS Komut Satırı Ayarları
         - 	Program Örnekleri
-*	Yorum ve Açıklama Cümleleri
+10	Yorum ve Açıklama Cümleleri
         - 	Yorum İşareti
         - 	Yorum İşaretinin Farklı Kullanımları
                 > 	Etkisizleştirme Amaçlı
                 > 	Süsleme Amaçlı
-*	Kullanıcıdan Bilgi Almak
+11	Kullanıcıdan Bilgi Almak
         - 	input() Fonksiyonu
         - 	Tip Dönüşümleri
                 > 	int()
@@ -100,13 +100,13 @@ Teşekkürler...
                 > 	complex()
         - 	eval() ve exec() Fonksiyonları
         - 	format() Metodu
-*	Koşullu Durumlar
+12	Koşullu Durumlar
         - 	Koşul Deyimleri
                 > 	if
                 > 	elif
                 > 	else
         - 	Örnek Uygulama
-*	İşleçler
+13	İşleçler
         - 	Aritmetik İşleçler
         - 	Karşılaştırma İşleçleri
         - 	Bool İşleçleri
@@ -116,7 +116,7 @@ Teşekkürler...
         - 	Uygulama Örnekleri
                 > 	Basit Bir Hesap Makinesi
                 > 	Sürüme Göre İşlem Yapan Program
-*	Döngüler (Loops)
+14	Döngüler (Loops)
         - 	while Döngüsü
         - 	for Döngüsü
         - 	İlgili Araçlar
@@ -129,7 +129,7 @@ Teşekkürler...
                 > 	Dosyaların İçeriğini Karşılaştırma
                 > 	Karakter Dizisindeki Karakterleri Sayma
                 > 	Dosya içindeki Karakterleri Sayma
-*	Hata Yakalama
+15	Hata Yakalama
         - 	Hata Türleri
         - 	try... except...
         - 	try... except... as...
@@ -138,7 +138,7 @@ Teşekkürler...
         - 	raise
         - 	Bütün Hataları Yakalamak
         - 	Örnek Uygulama
-*	Karakter Dizileri
+16	Karakter Dizileri
         - 	Karakter Dizilerinin Öğelerine Erişmek
         - 	Karakter Dizilerini Dilimlemek
         - 	Karakter Dizilerini Ters Çevirmek
@@ -149,7 +149,7 @@ Teşekkürler...
                 > 	enumerate()
                 > 	help()
         - 	Notlar
-*	Karakter Dizilerinin Metotları
+17	Karakter Dizilerinin Metotları
         - 	replace()
         - 	split(), rsplit(), splitlines()
         - 	lower()
@@ -157,7 +157,7 @@ Teşekkürler...
         - 	islower(), isupper()
         - 	endswith()
         - 	startswith()
-*	Karakter Dizilerinin Metotları (Devamı)
+18	Karakter Dizilerinin Metotları (Devamı)
         - 	capitalize()
         - 	title()
         - 	swapcase()
@@ -173,7 +173,7 @@ Teşekkürler...
         - 	partition(), rpartition()
         - 	encode()
         - 	expandtabs()
-*	Karakter Dizilerinin Metotları (Devamı)
+19	Karakter Dizilerinin Metotları (Devamı)
         - 	str.maketrans(), translate()
         - 	isalpha()
         - 	isdigit()
@@ -183,7 +183,7 @@ Teşekkürler...
         - 	isnumeric()
         - 	isspace()
         - 	isprintable()
-*	Karakter Dizilerini Biçimlendirmek
+20	Karakter Dizilerini Biçimlendirmek
         - 	% İşareti ile Biçimlendirme (Eski Yöntem)
                 > 	Biçimlendirme Karakterleri
                         >> 	s
@@ -205,9 +205,9 @@ Teşekkürler...
                         >> 	b
                         >> 	f
                         >> 	,
-*	f-string
+21	f-string
         - 	Kullanım
-*	Listeler ve Demetler
+22	Listeler ve Demetler
         - 	Listeler
                 > 	Liste Tanımlamak
                 > 	list() Fonksiyonu
@@ -226,7 +226,7 @@ Teşekkürler...
                 > 	Demetlerin Öğelerine Erişmek
                 > 	Demetlerle Listelerin Birbirinden Farkı
                 > 	Demetlerin Kullanım Alanı
-*	Listelerin ve Demetlerin Metotları
+23	Listelerin ve Demetlerin Metotları
         - 	Listelerin Metotları
                 > 	append()
                 > 	extend()
@@ -242,7 +242,7 @@ Teşekkürler...
         - 	Demetlerin Metotları
                 > 	index()
                 > 	count()
-*	Sayma Sistemleri
+24	Sayma Sistemleri
         - 	Onlu Sayma Sistemi
         - 	Sekizli Sayma Sistemi
         - 	On Altılı Sayma Sistemi
@@ -258,7 +258,7 @@ Teşekkürler...
                         >> 	x
                         >> 	        - 
         - 	Sayma Sistemlerinin Birbirlerine Karşı Avantajları
-*	Sayılar
+25	Sayılar
         - 	Sayıların Metotları
                 > 	Tam Sayıların Metotları
                         >> 	bit_length()
@@ -274,7 +274,7 @@ Teşekkürler...
                 > 	max()
                 > 	min()
                 > 	sum()
-*	Temel Dosya İşlemleri
+26	Temel Dosya İşlemleri
         - 	Dosya Oluşturmak
         - 	Dosyaya Yazmak
         - 	Dosya Okumak
@@ -285,7 +285,7 @@ Teşekkürler...
                 > 	Dosyaların Başında Değişiklik Yapmak
                 > 	Dosyaların Ortasında Değişiklik Yapmak
         - 	Dosyaya Erişme Kipleri
-*	Dosyaların Metot ve Nitelikleri
+27	Dosyaların Metot ve Nitelikleri
         - 	closed Niteliği
         - 	readable() Metodu
         - 	writable() Metodu
@@ -293,7 +293,7 @@ Teşekkürler...
         - 	mode Niteliği
         - 	name Niteliği
         - 	encoding Niteliği
-*	İkili (Binary) Dosyalar
+28	İkili (Binary) Dosyalar
         - 	İkili Dosyalarla Örnekler
                 > 	PDF Dosyalarından Bilgi Alma
                 > 	Resim Dosyalarının Türünü Tespit Etme
@@ -302,11 +302,11 @@ Teşekkürler...
                         >> 	GIF
                         >> 	TIFF
                         >> 	BMP
-*	Basit bir İletişim Modeli
+29	Basit bir İletişim Modeli
         - 	8 Bitlik bir Sistem
         - 	Hata Kontrolü
         - 	Karakterlerin Temsili
-*	Karakter Kodlama (Character Encoding)
+30	Karakter Kodlama (Character Encoding)
         - 	Giriş
         - 	ASCII
                 > 	7 Bitlik bir Sistem
@@ -325,7 +325,7 @@ Teşekkürler...
                 > 	ascii()
                 > 	ord()
                 > 	chr()
-*	Baytlar (Bytes) ve Bayt Dizileri (Bytearrays)
+31	Baytlar (Bytes) ve Bayt Dizileri (Bytearrays)
         - 	Giriş
         - 	Eskisi ve Yenisi
         - 	Bayt Tanımlamak
@@ -335,14 +335,14 @@ Teşekkürler...
                 > 	fromhex
         - 	Bayt Dizileri
         - 	Bayt Dizilerinin Metotları
-*	Sözlükler
+32	Sözlükler
         - 	Sözlük Tanımlamak
         - 	Sözlük Öğelerine Erişmek
         - 	Sözlüklerin Yapısı
         - 	Sözlüklere Öğe Eklemek
         - 	Sözlük Öğeleri Üzerinde Değişiklik Yapmak
         - 	Sözlük Üreteçleri (Dictionary Comprehensions)
-*	Sözlüklerin Metotları
+33	Sözlüklerin Metotları
         - 	keys()
         - 	values()
         - 	items()
@@ -354,7 +354,7 @@ Teşekkürler...
         - 	popitem()
         - 	setdefault()
         - 	update()
-*	Kümeler ve Dondurulmuş Kümeler
+34	Kümeler ve Dondurulmuş Kümeler
         - 	Kümeler
                 > 	Küme Oluşturmak
                 > 	Kümelerin Yapısı
@@ -378,7 +378,7 @@ Teşekkürler...
                         >> 	symmetric_difference_update()
                         >> 	pop()
         - 	Dondurulmuş Kümeler (Frozenset)
-*	Fonksiyonlar
+35	Fonksiyonlar
         - 	Fonksiyon Nedir ve Ne İşe Yarar?
         - 	Fonksiyon Tanımlamak ve Çağırmak
         - 	Fonksiyonların Yapısı
@@ -392,7 +392,7 @@ Teşekkürler...
         - 	return Deyimi
         - 	Örnek bir Uygulama
         - 	Fonksiyonların Kapsamı ve global Deyimi
-*	Gömülü Fonksiyonlar
+36	Gömülü Fonksiyonlar
         - 	abs()
         - 	round()
         - 	all()
@@ -448,10 +448,10 @@ Teşekkürler...
         - 	type()
         - 	zip()
         - 	vars()
-*	İleri Düzey Fonksiyonlar
+37	İleri Düzey Fonksiyonlar
         - 	Lambda Fonksiyonları
         - 	Özyinelemeli (Recursive) Fonksiyonlar
-*	Modüller
+38	Modüller
         - 	Modül Nedir?
         - 	Hazır Modüller
         - 	Modüllerin İçe Aktarılması
@@ -472,7 +472,7 @@ Teşekkürler...
                 > 	__loader__ Niteliği
                 > 	__spec__ Niteliği
                 > 	__package__ Niteliği
-*	Nesne Tabanlı Programlama (OOP)
+39	Nesne Tabanlı Programlama (OOP)
         - 	Giriş
         - 	Sınıflar
         - 	Sınıflar Ne İşe Yarar?
@@ -482,19 +482,19 @@ Teşekkürler...
         - 	Örnek Nitelikleri
         - 	__init__ Fonksiyonu ve self
         - 	Örnek Metotları
-*	Nesne Tabanlı Programlama (Devamı)
+40	Nesne Tabanlı Programlama (Devamı)
         - 	Sınıf Metotları
         - 	@classmethod Bezeyicisi ve cls
         - 	Alternatif İnşacılar
         - 	Statik Metotlar
         - 	@staticmethod Bezeyicisi
-*	Nesne Tabanlı Programlama (Devamı)
+41	Nesne Tabanlı Programlama (Devamı)
         - 	Nesneler
         - 	Nesne Nedir?
         - 	Basit Bir Oyun
         - 	Her Şey Bir Nesnedir
         - 	Birinci Sınıf Öğeler
-*	Nesne Tabanlı Programlama (Devamı)
+42	Nesne Tabanlı Programlama (Devamı)
         - 	Sınıf Üyeleri
                 > 	Aleni Üyeler
                 > 	Gizli Üyeler
@@ -504,23 +504,23 @@ Teşekkürler...
                 > 	Metottan Niteliğe
                 > 	Salt Okunur Nitelikler
                 > 	Veri Doğrulaması
-*	Nesne Tabanlı Programlama (Devamı)
+43	Nesne Tabanlı Programlama (Devamı)
         - 	Miras Alma
         - 	Taban Sınıflar
         - 	Alt Sınıflar
         - 	Miras Alma Türleri
         - 	super()
         - 	object Sınıfı
-*	Nesne Tabanlı Programlama (Devamı)
+44	Nesne Tabanlı Programlama (Devamı)
         - 	Tkinter Hakkında
         - 	Prosedürel Bir Örnek
         - 	Sınıflı Bir Örnek
         - 	Çoklu Miras Alma
         - 	Dahil Etme
-*	Nesne Tabanlı Programlama (Devamı)
+45	Nesne Tabanlı Programlama (Devamı)
         - 	İnşa, İlklendirme ve Sonlandırma
                 > 	__new__() Metodu
-*	Paketler
+46	Paketler
         - 	Paket Nedir?
         - 	Paket Türleri
                 > 	Standart Paketler
