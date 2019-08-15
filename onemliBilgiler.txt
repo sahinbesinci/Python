@@ -5,3 +5,12 @@
 >>> sorted("çiçek", key=locale.strxfrm)
 ['ç', 'ç', 'e', 'i', 'k']
 
+# Türkçe harfleri de düzgün bir şekilde sıralayabileceğini göstermekten ibarettir.
+>>> harfler = "abcçdefgğhıijklmnoöprsştuüvyz"
+>>> çevrim = {harf: harfler.index(harf) for harf in harfler}
+>>> isimler = ["ahmet", "ışık", "ismail", "çiğdem", "can", "şule"]
+>>> çevrim
+{'a': 0, 'b': 1, 'c': 2, 'ç': 3, 'd': 4, 'e': 5, 'f': 6, 'g': 7, 'ğ': 8, 'h': 9, 'ı': 10, 'i': 11, 'j': 12, 'k': 13, 'l': 14, 'm': 15, 'n': 16, 'o': 17, 'ö': 18, 'p': 19, 'r': 20, 's': 21, 'ş': 22, 't': 23, 'u': 24, 'ü': 25, 'v': 26, 'y': 27, 'z': 28}
+>>> isimler.sort(key=lambda x: çevrim.get(x[0]))
+>>> print(isimler)
+['ahmet', 'can', 'çiğdem', 'ışık', 'ismail', 'şule']
